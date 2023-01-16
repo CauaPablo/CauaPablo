@@ -16,5 +16,3 @@
   
 </div><br/>
 
-![Snake animation] (https://github.com/CauaPablo)
-
