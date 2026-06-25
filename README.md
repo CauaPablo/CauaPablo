@@ -41,19 +41,6 @@
 
 <br/>
 
-<!-- ====================== EXPERIÊNCIA ====================== -->
-## 💼 Experiência
-
-| 🏢 Empresa | 💻 Cargo | 🗓️ Período |
-|:--|:--|:--|
-| **Dataside** | Solutions Architect | jan/2023 — atual |
-| **Belake.ai** | Solutions Architect | jan/2024 — jun/2026 |
-| **Rox Partner** | Data Engineer | jun/2022 — dez/2022 |
-| **Dataside** | Data Engineer / BI / Data Platform Consultant | jan/2020 — jun/2022 |
-| **Atitude Infinita** | Mentor | ago/2020 — jan/2023 |
-
-<br/>
-
 <!-- ====================== TECNOLOGIAS ====================== -->
 ## 🛠️ Stack & Especialidades
 
