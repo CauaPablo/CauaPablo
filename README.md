@@ -1,7 +1,9 @@
-<!-- ====================== HEADER / BANNER ====================== -->
+<!-- ====================== HEADER ====================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:29B5E8,50:0089D6,100:FF3621&height=220&section=header&text=Cau%C3%A3%20Pablo&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Solutions%20Architect%20%7C%20Snowflake%20Data%20Superhero%20%7C%20Data%20%26%20AI&descSize=18&descAlignY=58" width="100%"/>
+# Olá! Eu sou o Cauã Pablo 👋
+
+### 🏗️ Solutions Architect &nbsp;•&nbsp; ❄️ Snowflake Data Superhero &nbsp;•&nbsp; 🤖 Data & AI
 
 <!-- Typing animation -->
 <a href="https://www.linkedin.com/in/cauapabloc">
@@ -188,8 +190,8 @@ class CauaPablo:
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF3621,50:0089D6,100:29B5E8&height=120&section=footer" width="100%"/>
+---
 
-<i>⭐️ De <a href="https://github.com/CauaPablo">CauaPablo</a> — obrigado por visitar!</i>
+<i>⭐️ Obrigado por visitar! Bora transformar dados em decisões? ❄️</i>
 
 </div>
