@@ -134,12 +134,12 @@ class CauaPablo:
 
 <br/>
 
-<!-- ====================== TROFÉUS ====================== -->
-## 🏆 Troféus
+<!-- ====================== GRÁFICO DE ATIVIDADE ====================== -->
+## 📈 Atividade
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=CauaPablo&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CauaPablo&bg_color=0D1117&color=29B5E8&line=FF3621&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 
 </div>
 
