@@ -34,20 +34,6 @@
 
 > Atuo há **mais de 6 anos** com dados e inteligência artificial — minha trajetória começou cedo, aos **14 anos**. Hoje, como **Arquiteto de Soluções em Dados e IA**, ajudo empresas a desenharem e implementarem arquiteturas escaláveis, pipelines robustos e soluções analíticas que geram **valor de verdade** para o negócio.
 
-```python
-class CauaPablo:
-    def __init__(self):
-        self.cargo       = "Solutions Architect @ Dataside"
-        self.titulo      = "Snowflake Data Superhero ❄️"
-        self.localizacao = "São Paulo, Brasil 🇧🇷"
-        self.experiencia = "6+ anos em Data & AI"
-        self.foco        = ["Arquitetura de Dados", "IA Generativa", "Pré-vendas"]
-        self.idiomas     = ["Português 🇧🇷", "Inglês 🇺🇸"]
-
-    def missao(self):
-        return "Conectar estratégia à prática: do problema à inovação com DATA & AI"
-```
-
 - 🏗️ &nbsp;**Arquiteto de Soluções** — desenho lakehouses, data mesh e ingestion frameworks escaláveis
 - 🤖 &nbsp;**IA Generativa** — RAG, copilots, vector search e LLMOps com Azure OpenAI
 - 🤝 &nbsp;**Pré-vendas** — traduzo dores do cliente em soluções viáveis e de alto impacto
